@@ -1,7 +1,6 @@
 from selenium import webdriver
 import pytest
 import time
-import conftest
 
 link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 
